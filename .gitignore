@@ -1,5 +1,5 @@
 /ignore
-/img
-/geo
-/backup
-/sim
+img/
+geo/
+backup/
+sim/
